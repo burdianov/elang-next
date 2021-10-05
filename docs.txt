@@ -1,0 +1,4 @@
+# libs installation:
+
+https://nextjs.org/docs/basic-features/typescript
+https://tailwindcss.com/docs/guides/nextjs
